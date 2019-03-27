@@ -13,7 +13,7 @@ $ npm install remove-sensitive-info --save-dev
 
 new SensitiveInfo(config).parse(text) --- returns parsed text replacing all the sensitivie info (email, ssn, phone)
 
-config:Object
+config: {Object}
 
 ```js
 config = {
