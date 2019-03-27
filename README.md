@@ -60,7 +60,7 @@ initialization(){
 }
 
 method(){
-console.log(si.parse(['hello pavankumar8545@gmail.com', 'hello pavankumar8545@gmail.com']));}
+console.log(sensitiveinfo.parse(['hello pavankumar8545@gmail.com', 'hello pavankumar8545@gmail.com']));}
 ```
 output:
 ```sh
