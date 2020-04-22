@@ -1,6 +1,6 @@
 {
-  "name": "remove-sensitive-info",
-  "version": "1.0.0",
+  "name": "@pdkpavankumar/remove-sensitive-info",
+  "version": "1.0.1",
   "description": "npm package to remove all sensitive info from data passed",
   "main": "./lib/index.js",
   "scripts": {
@@ -52,5 +52,8 @@
   },
   "directories": {
     "test": "test"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/pdkpavankumar"
   }
 }
